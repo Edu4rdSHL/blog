@@ -1,3 +1,3 @@
-# edu4rdshl.github.io
+# About
 
-Personal blog.
+It's the personal blog of Eduard Tolosa, a cyber security researcher and programmer.
