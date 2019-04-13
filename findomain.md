@@ -1,7 +1,7 @@
 ---
 title: Findomain, a subdomain finder using certificate transparency API of Facebook.
 layout: post
-by: Eduard Toloza
+tags: rust,find subdomain,osint,subdomain scan
 ---
 
 Test
