@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 exclude: [README.md, .gitignore]
+
+permalink: pretty
