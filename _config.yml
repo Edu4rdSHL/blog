@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-exclude: [README.md, .gitignore]
+exclude: [.gitignore]
 
 permalink: pretty
