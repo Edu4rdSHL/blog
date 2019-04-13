@@ -1,4 +1,2 @@
 theme: jekyll-theme-hacker
-exclude: [.gitignore]
-
 permalink: pretty
